@@ -1,0 +1,79 @@
+header{
+    max-width: 1900px;
+    max-height: 50px;
+    background-color: #F5F5F5;
+    box-shadow: 0px 4px 0px #EF6400;     
+}
+    
+#logo{
+    max-width: 50%;
+    width: 80px;
+    vertical-align: top;
+    display: inline-block;
+    position: absolute;left: 45%;right: 55%;
+}
+#simbulo{
+    color: #9747FF;
+    max-width: 20px;
+    max-height: 20px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    position:relative ; right: -73%;
+}
+       
+    
+#menu{
+    max-width: 50%;
+    width: 50px;
+    box-shadow: none;
+}
+    
+#albums{
+    width: 260px;
+    height: 260pxx;
+    box-shadow: 0px 0px 10px #9b9b9b;
+}
+
+#lala{
+    padding-top: 40px;
+}
+#grid{
+    padding-right: 50px;
+}
+
+    
+#albumsmusica{
+    min-width: 50px;
+    min-height:50px ;
+    width: 400px;
+    height: 400px;
+    padding-top: 200px;
+    padding-right: 300px;
+}
+#fundo{
+    border: #9747FF;
+}
+
+
+#albummusica{
+    width: 280px;
+    height: 280px;
+    box-shadow: 0px 0px 10px #9747FF;
+    position: fixed;left: 25%;top: 260px;
+
+}
+#musicabloco{
+    width: 280px;
+    height: 300px;
+    position: fixed;left: 55%;top: 240px;
+    background-color: #E2CCFF;
+
+}
+
+#fundomusic{
+    background-color: #E2CCFF;
+    padding-left: 15px;
+    padding-top: 8px;
+    width: 250px;
+    height: 50px;
+}
